@@ -1,0 +1,13 @@
+.root {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.form {
+  flex: 1;
+}
+
+.list {
+  flex: 1;
+}
